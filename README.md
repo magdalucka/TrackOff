@@ -5,8 +5,8 @@ Presented workflow is provided to determine displacmenets amongst horizontal axe
 
 Main workflow consits of 4 scripts:\
 (1) to create master image tiles,\
-(2) to create sceondary image tiles,\
-(3) to train CNN model and generate output dispalcement field,\
+(2) to create secondary image tiles,\
+(3) to train CNN model and generate output displacement field,\
 (4) to filter outliers and low-quality points.
 
 Three sample datasets are provided: two manually shifted image pairs (cat photo and amplitude image of Daugaard-Jensen glacier) and one real-world data from Daugaard-Jensen glacier. The real-world dataset consists of two coregistered SAR images from Sentinel-1 satellite from 2024/02/03 and 2024/02/15 dates.
