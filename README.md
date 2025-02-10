@@ -3,7 +3,7 @@ This repository provides Python scripts to track offsets between two input image
 
 Presented workflow is provided to determine displacmenets amongst horizontal axes between image pairs to determine displacement field. Main aim of presented solution is to calcualte glacier velocity maps based on SAR intenisty images. The full descirption is provided by Łucka (2025).
 
-Main workflow conists of 4 scripts:\
+Main workflow consits of 4 scripts:\
 (1) to create master image tiles,\
 (2) to create sceondary image tiles,\
 (3) to train CNN model and generate output dispalcement field,\
