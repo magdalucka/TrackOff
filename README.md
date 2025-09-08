@@ -9,7 +9,11 @@ Main workflow consits of 4 scripts:\
 (3) to train CNN model and generate output displacement field,\
 (4) to filter outliers and low-quality points.
 
-Three sample datasets are provided: two manually shifted image pairs (cat photo and amplitude image of Daugaard-Jensen glacier) and one real-world dataset from Daugaard-Jensen glacier. The real-world dataset consists of two coregistered SAR images from Sentinel-1 satellite from 2024/02/03 and 2024/02/15 dates.
+Three sample datasets are provided in teh specified catalogue: two manually shifted image pairs (cat photo and amplitude image of Daugaard-Jensen glacier) and one real-world dataset from Daugaard-Jensen glacier. The real-world dataset consists of two coregistered SAR images from Sentinel-1 satellite from 2024/02/03 and 2024/02/15 dates. Moreover, for the real-world dataset, the Python scirpt to download original Senitnel-1 scenes is provided.
+
+Datatsets gathered in this repository and developed Python scripts are part of a scientific project "Novel view on the study of glacier kinematics in the context of global climate change" funded by Naional Scientific Centre of Poladn (project ID: 2022/45/N/ST10/02382). More information about the project and its progress: https://magdalucka.github.io/en/menu/preludium/
+
+<img width="3082" height="268" alt="image" src="https://github.com/user-attachments/assets/2f53a1d8-ad18-4c02-b489-2d2be411f448" />
 
 ### References
 Łucka M., 2025; "Investigation of machine learning algorithms to determine glaciers displacements", Remote Sensing Applications: Society and Environment, ISSN 2352-9385, DOI: https://doi.org/10.1016/j.rsase.2025.101476.
