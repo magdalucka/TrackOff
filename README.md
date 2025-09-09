@@ -18,3 +18,5 @@ In the Results_samples folder user might find results for provided datasets in f
 
 ### References
 Łucka M., 2025; "Investigation of machine learning algorithms to determine glaciers displacements", Remote Sensing Applications: Society and Environment, ISSN 2352-9385, DOI: https://doi.org/10.1016/j.rsase.2025.101476.
+
+[![DOI](https://zenodo.org/badge/930340424.svg)](https://doi.org/10.5281/zenodo.17083301)
